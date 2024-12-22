@@ -192,7 +192,7 @@ CLAY(CLAY_LAYOUT({ .layoutDirection = CLAY_TOP_TO_BOTTOM })) {
     // Re-usable components
     ButtonComponent(CLAY_STRING("Click me!"));
     ButtonComponent(CLAY_STRING("No, click me!"));
-});
+}
 ```
 
 ### Configuring Layout and Styling UI Elements
